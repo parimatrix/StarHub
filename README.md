@@ -3,18 +3,18 @@
 ### This GitHub 1 stars & glowing...
 **[Tom Scott] did it on YouTube! Let's see till when does this work on GitHub.**
 - Star this repo.
-- Wait for 1 minutes.
+- Wait for 1000 minutes.
 - You'll see stars on your repos from us.
 
 **The count of stars in this file should change with times!**
 
-This README gets updated every 1 minutes.
+This README gets updated every 1000 minutes.
 
 | Counted Field | Live Count |
 | ------ | ------ |
 | Stargazers | 1 |
 | Repos Starred by us | 30 |
-| Commits | 0 |
+| Commits | 3 |
 | Total Stars Added in GitHub Galaxy | 31 |
 
 ## Latest Stargazers
