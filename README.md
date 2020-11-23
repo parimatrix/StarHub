@@ -1,6 +1,6 @@
 
 # StarHub
-### StarHub has 8 stars & glowing...
+### StarHub has 9 stars & glowing...
 **[Tom Scott] did it on YouTube! Let's see till when does this work on GitHub.**
 - Star this repo.
 - Wait for 1 minutes.
@@ -12,18 +12,18 @@ This README gets updated every 1 minutes.
 
 | Counted Field | Live Count |
 | ------ | ------ |
-| Stargazers | 8 |
-| Repos Starred by us | 74 |
-| Commits | 7 |
-| Total Stars Added in GitHub Galaxy | 82 |
+| Stargazers | 9 |
+| Repos Starred by us | 88 |
+| Commits | 10 |
+| Total Stars Added in GitHub Galaxy | 97 |
 
 ## Latest Stargazers
 
 | Username |
 | ------ |
+| Rahmeen14 |
 | foobar98 |
 | idaroliaflip |
-| lancelot1337 |
 
 ## Description
 - We observe the new stargazers of this repository.
